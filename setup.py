@@ -38,7 +38,6 @@ setuptools.setup(
     install_requires=[
         'numpy',
         'requests',
-        'torchvision',
         'pillow',
     ],
 )
